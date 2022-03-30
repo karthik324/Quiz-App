@@ -1,3 +1,6 @@
+A simple quiz app which I've created by watching  a Udemy Course by Angela Yu
+
+
 ![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 
